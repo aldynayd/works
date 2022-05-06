@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/3_file.dir/main.c.o CMakeFiles/3_file.dir/table.c.o  -o 3_file 

@@ -1,0 +1,6 @@
+3 3
+2 2
+>1 2 kaskdkas
+2 3 ujqjwduj
+1 2 0 kaskdkas
+2 3 0 ujqjwduj

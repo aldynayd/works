@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/darga/Documents/study/1.2 2022/1.1/matrix1.c
+stdio.h
+-
+malloc.h
+-
+matrix1.h
+/mnt/c/Users/darga/Documents/study/1.2 2022/1.1/matrix1.h
+math.h
+-
+
+/mnt/c/Users/darga/Documents/study/1.2 2022/1.1/matrix1.h
+stdio.h
+-
+malloc.h
+-
+

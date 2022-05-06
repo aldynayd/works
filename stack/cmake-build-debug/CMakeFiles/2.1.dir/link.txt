@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/2.1.dir/main.c.o CMakeFiles/2.1.dir/stack.c.o  -o 2.1 

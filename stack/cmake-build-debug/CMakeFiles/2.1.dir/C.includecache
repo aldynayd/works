@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/darga/Documents/study/1.2 2022/2.1/stack.c
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+stack.h
+/mnt/c/Users/darga/Documents/study/1.2 2022/2.1/stack.h
+
+/mnt/c/Users/darga/Documents/study/1.2 2022/2.1/stack.h
+
